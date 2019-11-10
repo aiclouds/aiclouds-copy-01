@@ -1,13 +1,39 @@
 ---
-title: A Generic Page
+title: 'what we are '
 content_img_path: images/pic04.jpg
 menus:
   main:
-    title: Generic
+    identifier: 'prices '
+    title: 'what is our platter '
     weight: 2
 layout: page
 ---
+My fashion  my happy hours
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+Our menu ranges from your old school to some mind blowing custom based models and home made
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+MIENS STREET STYLE
+
+WOMAN'S STYLE
+
+CHILDREN CHOICE
+
+SNACKS - Time pass
+
+Beer and wine
+
+Fruits and health
+
+	
+
+Rs 500 to  3000
+
+Rs 700 to  Rs 5000
+
+Rs 500 to   Rs 3000
+
+Rs 50 to  Rs 400
+
+Rs 200 to 2000
+
+Rs 100 to Rs 4000
