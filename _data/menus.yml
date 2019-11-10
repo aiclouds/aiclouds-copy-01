@@ -1,1 +1,17 @@
-{}
+main:
+  - identifier: 'what we are '
+    title: 'what we are '
+    url: 'http://kapadaonline.com/index.html'
+    weight: 1
+  - identifier: 'where we are '
+    title: 'where we are '
+    url: 'http://kapadaonline.com/index.html'
+    weight: 2
+  - identifier: 'how we are '
+    title: 'how we are '
+    url: 'http://kapadaonline.com/index.html'
+    weight: 3
+  - identifier: 'when we are '
+    title: 'when we are '
+    url: 'http://kapadaonline.com/index.html'
+    weight: 4
