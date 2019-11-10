@@ -1,16 +1,14 @@
 ---
-title: Feugiat consequat
+title: 'who we are '
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
-  weight: 2
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: we proived street fashion in each hone
   home_img:
-    path: images/pic02.jpg
     data_position: top center
+    path: images/pic02.jpg
     url: '#'
+  weight: 2
 layout: page
 ---
 
