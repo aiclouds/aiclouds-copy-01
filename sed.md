@@ -11,6 +11,11 @@ home_spotlights:
     path: images/pic01.jpg
     url: '#'
   weight: 1
+menus:
+  main:
+    identifier: products and designs
+    title: mens cloths  woman cloths children clothes
+    weight: 2
 layout: page
 ---
 make things create innoavations based on your needs  dyi your fashion
