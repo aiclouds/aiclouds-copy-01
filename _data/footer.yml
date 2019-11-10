@@ -1,7 +1,13 @@
-landing_style: style1-alt
-alt_style: alt
+landing_style: style4-alt
+alt_style: style1-alt
 copyright: '&copy; Hyperspace. All rights reserved.'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made with Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: kapadaonline
+    url: 'https://www.kapadaonlinecom'
+  - new_window: true
+    text: aicllouds
+    url: 'https://aiclouds.in'
